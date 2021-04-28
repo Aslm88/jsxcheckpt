@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jsxcheckpt/static/css/main.e40c2841.chunk.css",
+    "main.js": "/jsxcheckpt/static/js/main.d1cb68b3.chunk.js",
+    "main.js.map": "/jsxcheckpt/static/js/main.d1cb68b3.chunk.js.map",
+    "runtime-main.js": "/jsxcheckpt/static/js/runtime-main.3dcc7074.js",
+    "runtime-main.js.map": "/jsxcheckpt/static/js/runtime-main.3dcc7074.js.map",
+    "static/js/2.4c6b4fba.chunk.js": "/jsxcheckpt/static/js/2.4c6b4fba.chunk.js",
+    "static/js/2.4c6b4fba.chunk.js.map": "/jsxcheckpt/static/js/2.4c6b4fba.chunk.js.map",
+    "static/js/3.6e4af382.chunk.js": "/jsxcheckpt/static/js/3.6e4af382.chunk.js",
+    "static/js/3.6e4af382.chunk.js.map": "/jsxcheckpt/static/js/3.6e4af382.chunk.js.map",
+    "index.html": "/jsxcheckpt/index.html",
+    "static/css/main.e40c2841.chunk.css.map": "/jsxcheckpt/static/css/main.e40c2841.chunk.css.map",
+    "static/js/2.4c6b4fba.chunk.js.LICENSE.txt": "/jsxcheckpt/static/js/2.4c6b4fba.chunk.js.LICENSE.txt",
+    "static/media/imageInSrc.67763b69.jpg": "/jsxcheckpt/static/media/imageInSrc.67763b69.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dcc7074.js",
+    "static/js/2.4c6b4fba.chunk.js",
+    "static/css/main.e40c2841.chunk.css",
+    "static/js/main.d1cb68b3.chunk.js"
+  ]
+}
